@@ -1,0 +1,3 @@
+/Users/yaroslavbyrak/CLionProjects/lab5_c-/cmake-build-debug/CMakeFiles/lab5_c.dir
+/Users/yaroslavbyrak/CLionProjects/lab5_c-/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yaroslavbyrak/CLionProjects/lab5_c-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
